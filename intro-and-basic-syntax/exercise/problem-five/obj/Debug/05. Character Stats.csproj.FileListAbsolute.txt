@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\User\source\repos\Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\User\source\repos\Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\05. Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\User\source\repos\Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb
