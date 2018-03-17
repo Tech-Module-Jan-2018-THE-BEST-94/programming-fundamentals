@@ -1,0 +1,11 @@
+C:\Users\niki\source\repos\problem-one\problem-one\bin\Debug\netcoreapp2.0\problem-one.deps.json
+C:\Users\niki\source\repos\problem-one\problem-one\bin\Debug\netcoreapp2.0\problem-one.runtimeconfig.json
+C:\Users\niki\source\repos\problem-one\problem-one\bin\Debug\netcoreapp2.0\problem-one.runtimeconfig.dev.json
+C:\Users\niki\source\repos\problem-one\problem-one\bin\Debug\netcoreapp2.0\problem-one.dll
+C:\Users\niki\source\repos\problem-one\problem-one\bin\Debug\netcoreapp2.0\problem-one.pdb
+C:\Users\niki\source\repos\problem-one\problem-one\obj\Debug\netcoreapp2.0\problem-one.csprojResolveAssemblyReference.cache
+C:\Users\niki\source\repos\problem-one\problem-one\obj\Debug\netcoreapp2.0\problem-one.csproj.CoreCompileInputs.cache
+C:\Users\niki\source\repos\problem-one\problem-one\obj\Debug\netcoreapp2.0\problem-one.AssemblyInfoInputs.cache
+C:\Users\niki\source\repos\problem-one\problem-one\obj\Debug\netcoreapp2.0\problem-one.AssemblyInfo.cs
+C:\Users\niki\source\repos\problem-one\problem-one\obj\Debug\netcoreapp2.0\problem-one.dll
+C:\Users\niki\source\repos\problem-one\problem-one\obj\Debug\netcoreapp2.0\problem-one.pdb
