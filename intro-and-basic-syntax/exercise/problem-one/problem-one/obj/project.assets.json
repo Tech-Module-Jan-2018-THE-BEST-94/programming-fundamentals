@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niki\\source\\repos\\problem-one\\problem-one\\problem-one.csproj",
+      "projectUniqueName": "E:\\kamui\\SoftUni\\Tech-Module-Team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\problem-one\\problem-one\\problem-one.csproj",
       "projectName": "problem-one",
-      "projectPath": "C:\\Users\\niki\\source\\repos\\problem-one\\problem-one\\problem-one.csproj",
+      "projectPath": "E:\\kamui\\SoftUni\\Tech-Module-Team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\problem-one\\problem-one\\problem-one.csproj",
       "packagesPath": "C:\\Users\\niki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niki\\source\\repos\\problem-one\\problem-one\\obj\\",
+      "outputPath": "E:\\kamui\\SoftUni\\Tech-Module-Team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\problem-one\\problem-one\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
